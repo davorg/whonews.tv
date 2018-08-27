@@ -1,9 +1,3 @@
-## Latest News
-
-* [New Series Writers and Directors announced](http://www.bbc.co.uk/blogs/doctorwho/entries/dae5242d-e859-43cb-941c-e0a9f39e5928)
-
-## What We Know
-
 * Series 11 of *Doctor Who* will be broadcast in Autumn 2018. Latest reports say "before October".
 * Filming for the series has finished.
 * The series will consist of ten episodes of 50 minutes each (episode 1 will be longer).

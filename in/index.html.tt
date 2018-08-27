@@ -1,1 +1,18 @@
-[% INCLUDE index.md -%]
+        <div class="col-md-8 blog-main">
+          <!-- h3 class="pb-3 mb-4 font-italic border-bottom">
+            From the Firehose
+          </h3 -->
+
+          <div class="blog-post">
+            <h2 class="blog-post-title">Latest News</h2>
+
+[% INCLUDE latest.md -%]
+            
+          </div><!-- /.blog-post -->
+
+          <div class="blog-post">
+            <h2 class="blog-post-title">What We Know</h2>
+[% INCLUDE whatweknow.md %]
+          </div><!-- /.blog-post -->
+
+        </div><!-- /.blog-main -->
